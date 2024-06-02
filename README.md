@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panutmustafa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on education
 - 📫 How to reach me (find me on instagram @panut_mustafa)
 
